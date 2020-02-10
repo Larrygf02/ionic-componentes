@@ -52,6 +52,11 @@ export class InicioPage implements OnInit {
       icon: 'infinite',
       name: 'INFINITE',
       redirecTo: '/infinite-scroll'
+    },
+    {
+      icon: 'hammer',
+      name: 'Input - forms',
+      redirecTo: '/input'
     }
   ]
 
